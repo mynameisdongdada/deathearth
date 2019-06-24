@@ -1,22 +1,5 @@
 # WormHole服务网关管理平台
 
-## 相关快速链接
-
-- [管理台操作说明](https://github.com/deathearth/wormhole/wikis/管理台操作说明)
-
-- [C端对接网关及签名说明](https://github.com/deathearth/wormhole/wikis/c端对接网关及签名说明)
-
-- [回调接口使用说明](https://github.com/deathearth/wormhole/wikis/回调接口使用说明)
-
-- [多环境配置使用说明](https://github.com/deathearth/wormhole/wikis/多环境配置使用说明)
-
-- [网关错误码说明](https://github.com/deathearth/wormhole/wikis/网关错误码说明)
-
-- [WormHole更新说明](https://github.com/deathearth/wormhole/wikis/wormhole更新说明)
-
-> 配置好即可运行
->> GitHub地址：https://github.com/deathearth/wormhole  
->> Gitee地址：https://gitee.com/deathearth/wormhole
 
 ### 目录
 * <a herf="1">平台背景</a>
